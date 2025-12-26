@@ -1,3 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Easy Noise</string>
+    <string name="channel_name">Уведомления от Easy Noise</string>
+    <string name="channel_description">Контролёр уведомлений от Easy Noise</string>
+    <string name="play">Воспроизвести</string>
+    <string name="pause">Пауза</string>
+    <string name="dismiss">Закрыть</string>
+    <string name="app_widget_description">Виджет Easy Noise</string>
+    <string name="lower_volume">Уменьшить громкость</string>
+    <string name="increase_volume">Увеличить громкость</string>
+    <string name="adjust_volume">Настроить громкость</string>
+    <string name="info">Информация</string>
+    <string name="request_phone_permission">Предоставить разрешение</string>
+    <string name="needs_phone_permission">Для автоматической приостановки воспроизведения во время телефонных звонков этому приложению требуется разрешение «телефон».</string>
+    <string name="privacy">Это приложение никогда не будет совершать звонки и не хранит и не передает никакую информацию о вас или вашем телефоне.</string>
+    <string name="pause_during_calls">Пауза во время звонков</string>
+    <string name="load_error">Ошибка загрузки звука</string>
+    <string name="playing">Воспроизведение</string>
+    <string name="paused">Приостановлено</string>
+    <string name="gray">серый</string>
+    <string name="gray_2">серый 2</string>
+    <string name="white">белый</string>
+    <string name="pink">розовый</string>
+    <string name="brown">коричневый</string>
+    <string name="blue">синий</string>
 </resources>
