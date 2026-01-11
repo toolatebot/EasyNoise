@@ -1,0 +1,7 @@
+Başga sesleriň aşagynda hem oýnatmagy dowam etdirýär. Oýnatmak/saklamak widjetini, Çalt sazlamalar plitkasyny we ýedi ses opsiýasyny öz içine alýar.
+
+Bu programmada hiç hili mahabat ýa-da yzarlaýjy ýok.Ol hiç haçan internete baglanmaýar. Häzirki ses derejesinden we saýlanan sesden başga hiç hili maglumat saklamaýar.
+
+Programmanyň diňe telefon jaňlary wagtynda oýnatmagy togtadyp bilmek üçin "Telefon" rugsady ("Easy Noise-a telefon jaňlaryny etmek we dolandyrmak üçin rugsat beriňmi?") gerek.Muny işlemegiň adaty usuly Audio Focus diýilýän zady öz içine alýar, ýöne bu programmanyň beýleki sesleriň (meselem, aýdym-saz ýa-da wideo) aşagyndaky şowhunlary çykaryp bilmejekdigini aňladýar.
+
+Doly çeşme kody https://github.com/cliambrown/EasyNoise salgysynda elýeterlidir.
