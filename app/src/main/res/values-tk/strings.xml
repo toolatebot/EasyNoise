@@ -1,3 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="channel_name">Easy Noise bildirişi</string>
+    <string name="channel_description">Easy Noise üçin kontroller bildirişi</string>
+    <string name="play">Oýna</string>
+    <string name="pause">Durdur</string>
+    <string name="dismiss">Ýatyrmak</string>
+    <string name="app_widget_description">Easy Noise widgety</string>
+    <string name="app_name">Easy Noise</string>
+    <string name="lower_volume">Sesiň sesini peseldiň</string>
+    <string name="increase_volume">Sesiň sesini ýokarlandyryň</string>
+    <string name="adjust_volume">Sesiň sesini sazlaň</string>
+    <string name="info">Maglumat</string>
+    <string name="request_phone_permission">Rugsat beriň</string>
+    <string name="needs_phone_permission">Telefon jaňlary wagtynda awtomatiki usulda oýnatmagy togtatmak üçin bu programma \"telefon\" rugsady gerek.</string>
+    <string name="privacy">Bu programma hiç haçan jaň etmez we siz ýa-da telefonyňyz barada hiç hili maglumat saklamaýar ýa-da paýlaşmaýar.</string>
+    <string name="pause_during_calls">Jaňlar wagtynda sägindir</string>
+    <string name="load_error">Ses ýüklenýän ýalňyşlyk</string>
+    <string name="playing">Oýnaýar</string>
+    <string name="paused">Duralga goýuldy</string>
+    <string name="gray">çal reňk</string>
+    <string name="gray_2">çal reňk 2</string>
+    <string name="white">ak</string>
+    <string name="pink">gülgüne</string>
+    <string name="brown">goňur</string>
+    <string name="blue">gök</string>
 </resources>
